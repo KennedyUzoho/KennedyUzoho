@@ -1,1 +1,1 @@
-# CS-250-Projects-Top-5-destination-slideshow
+# CS-250-Projects-Top-5-destinations-slideshow
